@@ -4,7 +4,7 @@ permalink: /open-source/
 title: Open-Source
 description:
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 Undergraduate and graduate courses that I will be teaching annually.
