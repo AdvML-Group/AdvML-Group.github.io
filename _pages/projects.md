@@ -9,4 +9,4 @@ display_categories: [Projects]
 horizontal: true
 ---
 
-The research projects that our AdvML-Group have been actively engaged in recently.
+<b>TBD</b> The research projects that our AdvML-Group have been actively engaged in recently.
