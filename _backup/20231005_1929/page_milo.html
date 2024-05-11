@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<!-- page.html -->
+        <div class="post">
+
+          <header class="post-header">
+            <h1 class="post-title">{{ page.title }}</h1>
+            <p class="post-description">{{ page.description }}</p>
+          </header>
+
+          <article>
+            <h4> <b>M</b>achine <b>I</b>ntelligence and <b>L</b>arge-scale <b>O</b>ptimization Group (MILO-Group)</h4>
+
+            {% if page.profile -%}
+            <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
+              {%- if page.profile.image %}
+                <img src="/assets/img/milo-group.png" style="border-radius:50%; width:150px;">
+              {% endif -%}
+            </div>
+            {%- endif %}
+
+            <div class="clearfix">
+              {{ content }}
+            </div>
+          </article>
+
+          {%- if page.related_publications != null and page.related_publications.size > 0 -%}
+          {% assign publications = page.related_publications | replace: ", ", "," | split: "," | join: "|" %}
+          <h2>References</h2>
+          <div class="publications">
+            {% bibliography -f {{ site.scholar.bibliography }} -q @*[key^={{ publications }}]* %}
+          </div>
+          {%- endif %}
+
+        </div>

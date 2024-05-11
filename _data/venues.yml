@@ -1,0 +1,48 @@
+"CCF-A":
+  url: https://www.ccf.org.cn/Academic_Evaluation/AI/
+  color: "#FF0000"
+
+"JCR-Q1":
+  url: https://jcr.clarivate.com/jcr/home
+  color: "#FF0000"
+
+"IJCAI":
+  url: https://www.ijcai.org/
+  color: "#0000FF"
+
+"AAAI":
+  url: https://aaai.org/
+  color: "#0000FF"
+
+"ICCV":
+  url: https://www.thecvf.com/
+  color: "#0000FF"
+
+"CVPR":
+  url: https://www.thecvf.com/
+  color: "#0000FF"
+
+"WACV":
+  url: https://www.thecvf.com/
+  color: "#0000FF"
+
+"JCQUT":
+  color: "#0000FF"
+
+"Ph.D. Thesis":
+  color: "#0000FF"
+
+"ICCP":
+  color: "#0000FF"
+
+"ICACI":
+  color: "#0000FF"
+
+"CISP":
+  color: "#0000FF"
+
+"ArXiv":
+  color: "#0000FF"
+
+"ESWA":
+  color: "#0000FF"
