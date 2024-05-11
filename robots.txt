@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://midasdming.github.io/sitemap.xml
