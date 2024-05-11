@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
+permalink: /open-source/
+title: Open-Source
 description:
 nav: true
 nav_order: 3
