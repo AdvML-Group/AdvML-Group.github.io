@@ -23,6 +23,13 @@
 
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <style>
+    .formula-container {
+        max-width: 1150px; /* 设置最大宽度 */
+        margin: 0 auto; /* 自动左右居中 */
+        text-align: center; /* 居中对齐 */
+    }
+  </style>
 </head>
 <body>
 
@@ -140,6 +147,40 @@
       </div>
     </div>
   </section>
+
+<br>
+
+<section class="hero teaser">
+  <div class="container">
+    <div class="formula-container">
+      <center><h2 class="title is-3">Transferable Structural Sparse Attack -- Exact Group Sparsity Training</h2></center>
+      <br>
+      <h2 class="subtitle has-text-centered">
+         Exact group sparsity training method combines sparse training with classification relevant semantics to learn structural sparsity in pixel-level and group-level.
+      </h2>
+    </div>
+  </div>
+  <div class="centered">
+        \[
+    \begin{aligned}
+    \min\limits_{\theta} & \sum\limits_{(\textbf{x},y) \in \mathbb{D}}\!\!\!\! \mathcal{L}_{\mathit{adv}}(\textbf{x} + \textbf{r} \odot \textbf{m}, y, \rho, \textbf{c}) + \lambda_1 ||\textbf{m}||_1  \\
+     s.t. \left \| \textbf{r}  \right \| _{\infty }\!<\!\epsilon, \ \textbf{r}\!=\!D_{1}(E(\textbf{x})) & , \ \rho\!=\!D_{2}(E(\textbf{x})),
+     \textbf{m}\!=\!Q(\textbf{c}\odot \rho), \sum\limits_{p,q} ||\textbf{c}_{\mathcal{G}_{p,q}}||_1\!=\!kS^2, \ \textbf{c}_{\mathcal{G}_{p,q}}\!=\!\{\textbf{0}_{S^2}, \textbf{1}_{S^2}\}
+    \end{aligned}
+    \]
+  </div>
+  <br>
+  <div class="container">
+    <div class="formula-container">
+      <h2 class="subtitle has-text-centered">
+          Based on \( P \times Q\) groups and feature importance \(\textit{FI}\)  , we calculate the aggregated classification-relevant importance \( \textit{GFI}_{p,q} = ||\textit{FI}_{\mathcal{G}_{p,q}}||_2 \) for \( (p,q) \)-th group.
+      </h2>
+      <h2 class="subtitle has-text-centered">
+          Rank \( GFI \) to obtain the index set of top-\( k \) largest values via \( \mathcal{K}=\mathop{top}(\textit{GFI}, k) \) . If \( (p, q)\in\mathcal{K}\), \(\textbf{c}_{\mathcal{G}_{p,q}}=\textbf{1}_{S^2} \) . Otherwise, \( \textbf{c}_{\mathcal{G}_{p,q}}=\textbf{0}_{S^2} \) .
+      </h2>
+    </div>
+  </div>
+</section>
 
 <br>
 
