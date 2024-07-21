@@ -1,16 +1,15 @@
 ---
-layout: page_projects
+layout: page_open_source
 permalink: /open-source/
 title: Open-Source
-description: 
+description:
 nav: true
 nav_order: 4
-display_categories: [Open_source]
+display_categories: [2024, 2023]
 horizontal: true
 ---
 
 
 
 
-<b>TBD</b> This is the open source code of our group's projects and articles.
-
+This is the open source code of our AdvML-group's projects and articles.
