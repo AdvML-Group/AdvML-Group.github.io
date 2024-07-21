@@ -11,5 +11,4 @@ horizontal: true
 
 
 
-
-This is the open source code of our AdvML-group's projects and articles.
+This is the open-source code for our AdvML-Group’s projects and publications.
