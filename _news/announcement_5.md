@@ -8,8 +8,8 @@ related_posts: false
 
 
 
-| 姓名   | 项目名                                                       | 推荐类型             |
+| Name   | Project Name                                                       | Recommendation Type             |
 | ------ | ------------------------------------------------------------ | -------------------- |
-| 杨雯   | 基于输入多样性增强和平衡自步学习的迁移性聚合梯度对抗攻击方法研究 | 校级全额资助一般项目 |
-| 杨仁清 | 基于迭代积分归因的迁移性特征对抗攻击方法研究                 | 校级联合资助项目     |
-| 田思冉 | 单阶段高效长尾目标检测算法研究                               | 校级联合资助项目     |
+| Wen Yang   | Research on migratory aggregated gradient adversarial attack method based on input diversity enhancement and balanced self-stepping learning | Fully funded general programs at the university level |
+| Renqing Liu | Research on iterative integral attribution based migratory features against attack methods                 | University-level co-funded programs     |
+| Siran Tian | Research on single-stage efficient long-tailed target detection algorithm                               | University-level co-funded programs     |
