@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <b>2024年研究生创新项目推荐名单</b> 
+title: Three group members received the 2024 Graduate Innovation Project. Congrats to Wen Yang, Renqing Yang, and Siran Tian.
 date: 2024-03-09 07:59:00-0400
 inline: false
 related_posts: false
@@ -13,4 +13,3 @@ related_posts: false
 | 杨雯   | 基于输入多样性增强和平衡自步学习的迁移性聚合梯度对抗攻击方法研究 | 校级全额资助一般项目 |
 | 杨仁清 | 基于迭代积分归因的迁移性特征对抗攻击方法研究                 | 校级联合资助项目     |
 | 田思冉 | 单阶段高效长尾目标检测算法研究                               | 校级联合资助项目     |
-
