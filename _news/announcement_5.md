@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three group members received the 2024 Graduate Innovation Project. Congrats to Wen Yang, Renqing Yang, and Siran Tian.
+title: Three group members received the <b>2024 Graduate Innovation Project</b>. Congrats to <b>Wen Yang</b>, <b>Renqing Yang</b>, and <b>Siran Tian</b>.
 date: 2024-03-09 07:59:00-0400
 inline: false
 related_posts: false
