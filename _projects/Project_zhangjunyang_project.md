@@ -5,7 +5,7 @@ description: Supported by&#58;  Chongqing University of Technology <br> Year&#58
 img:
 redirect: https://unsplash.com
 importance: 004
-category: Projects 2023
+category: Project 2023
 ---
 
 TBD.

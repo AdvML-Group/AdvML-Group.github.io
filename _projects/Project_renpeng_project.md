@@ -5,7 +5,7 @@ description: Supported by&#58; School of Computer Science and Engineering, Chong
 img: /assets/project_images/renpeng_project.png
 redirect: https://unsplash.com
 importance: 003
-category: Projects 2023
+category: Project 2023
 
 ---
 

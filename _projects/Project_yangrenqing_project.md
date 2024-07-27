@@ -5,7 +5,7 @@ description: Supported by&#58; Scientific Research Foundation of Chongqing Unive
 img: /assets/project_images/IIA.png
 redirect: https://unsplash.com
 importance: 003
-category: Projects 2024
+category: Project 2024
 
 ---
 

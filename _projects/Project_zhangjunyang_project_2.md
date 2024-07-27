@@ -5,7 +5,7 @@ description: Supported by&#58;  Omron (China) Co., Ltd <br> Year&#58; 2023 <br> 
 img:
 redirect: https://unsplash.com
 importance: 005
-category: Projects 2023
+category: Project 2023
 ---
 
 TBD.
