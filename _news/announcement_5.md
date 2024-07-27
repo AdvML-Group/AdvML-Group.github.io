@@ -10,6 +10,7 @@ related_posts: false
 
 | Name   | Project Name                                                       | Recommendation Type             |
 | ------ | ------------------------------------------------------------ | -------------------- |
-| Wen Yang   | Research on migratory aggregated gradient adversarial attack method based on input diversity enhancement and balanced self-stepping learning | Fully funded general programs at the university level |
-| Renqing Yang | Research on iterative integral attribution based migratory features against attack methods                 | University-level co-funded programs     |
-| Siran Tian | Research on single-stage efficient long-tailed target detection algorithm                               | University-level co-funded programs     |
+| Wen Yang   | Research on Transferable Aggregated Gradient Adversarial Attack Method Based on Enhanced Input Diversity and Balanced Self-Learning. | Fully funded general programs at the university level |
+| Renqing Yang | Research on Transferable Feature Adversarial Attack Method Based on Iterative Integral Attribution. | University-level co-funded programs     |
+| Siran Tian | Research on Single-Stage Efficient Long-Tail Object Detection Algorithm. | University-level co-funded programs     |
+
