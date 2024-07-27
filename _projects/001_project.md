@@ -5,7 +5,7 @@ description: Supported by&#58; Omron Corporation (OMRON) <br> Year&#58; 2023 <br
 img:
 redirect: https://unsplash.com
 importance: 002
-category: Projects
+category: Projects 2023
 ---
 
 TBD.
