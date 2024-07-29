@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two teams from our group have qualified for the <b>2024 China International College Student Innovation Competition (Institute Contest) and successfully advanced to the campus competition</b>. Congrats to <b>Peng Ren</b>, <b>Junyang Zhang</b>, <b>Wen Yang</b>, <b>Junwei Xie</b>, <b>Renqing Yang</b>, and <b>Siran Tian</b>.
+title: Two teams from our group have qualified for the <b>2024 China International College Student Innovation Competition (Institute Contest)</b> and successfully advanced to the campus competition. Congrats to <b>Peng Ren</b>, <b>Wen Yang</b>, and members.
 date: 2024-06-11 07:59:00-0400
 inline: false
 related_posts: false
