@@ -5,7 +5,7 @@ description: Di Ming, Peng Ren, Yunlong Wang, and Xin Feng* In Proceedings of th
 img: /assets/open-socure-image/CVPR2024.jpg
 redirect: https://github.com/MisterRpeng/EGS-TSSA
 importance: 001
-category: 2024
+category: Open-Source 2024
 ---
 
 TBD.
