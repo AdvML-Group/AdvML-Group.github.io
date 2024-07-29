@@ -4,7 +4,7 @@ title: "Intelligent Guardian" - Trustworthy Autonomous Driving Project Based on 
 description: Project participants&#58;Wen Yang,Junwei Xie,Renqing Yang, Siran Tian <br> Role&#58; PI
 img:
 redirect: https://unsplash.com
-importance: 001
+importance: 007
 category: Project 2024
 ---
 
