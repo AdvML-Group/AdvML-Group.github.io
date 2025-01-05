@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wenwen Zhang (张文文)
-description: Starting in Fall 2023. <br> Research Topic&#58; Ensemble Adversarial Attack.
+description: Starting in Fall 2023. <br> Research Topic&#58; Machine Learning and Ensemble Adversarial Attack.
 img: /assets/students-img/ZhangWenWen.jpg
 redirect: https://unsplash.com
 importance: 101
