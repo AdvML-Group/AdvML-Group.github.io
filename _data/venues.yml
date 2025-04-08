@@ -50,3 +50,11 @@
 
 "ESWA":
   color: "#0000FF"
+
+"CCF-C":
+  url: https://www.ccf.org.cn/Academic_Evaluation/AI/
+  color: "#FF0000"
+
+"IJCNN":
+  url: https://2025.ijcnn.org/
+  color: "#0000FF"
