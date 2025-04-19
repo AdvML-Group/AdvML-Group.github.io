@@ -10,9 +10,9 @@ nav_order: 2
 
 This is our AdvML-Group’s academic accomplishments.
 
-<b>CCF-A</b> denotes the list of top (Tier A) international academic periodicals and conferences recommended by <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml">China Computer Federation (CCF)</a>.
+<b>CCF-A/B/C</b> denotes the list of top (Tier A/B/C) international academic periodicals and conferences recommended by <a href="https://www.ccf.org.cn/en/Bulletin/2019-05-13/663884.shtml">China Computer Federation (CCF)</a>.
 
-
+<b>*</b> denotes the corresponding author. <b>#</b> denotes Dr. Di Ming's mentee.
 
 <div class="publications">
 
