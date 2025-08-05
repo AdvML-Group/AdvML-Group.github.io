@@ -2,6 +2,14 @@
   url: https://www.ccf.org.cn/Academic_Evaluation/AI/
   color: "#FF0000"
 
+"CCF-B":
+  url: https://www.ccf.org.cn/Academic_Evaluation/AI/
+  color: "#FF0000"
+
+"CCF-C":
+  url: https://www.ccf.org.cn/Academic_Evaluation/AI/
+  color: "#FF0000"
+
 "JCR-Q1":
   url: https://jcr.clarivate.com/jcr/home
   color: "#FF0000"
@@ -22,15 +30,30 @@
   url: https://www.thecvf.com/
   color: "#0000FF"
 
-"NeurIPS":
-  url: https://www.thecvf.com/
-  color: "#0000FF"
-
 "WACV":
   url: https://www.thecvf.com/
   color: "#0000FF"
 
+"NeurIPS":
+  url: https://nips.cc/
+  color: "#0000FF"
+
+"ICML":
+  url: https://icml.cc/
+  color: "#0000FF"
+
+"ICLR":
+  url: https://iclr.cc/
+  color: "#0000FF"
+
+"IJCNN":
+  url: https://ijcnn.org/
+  color: "#0000FF"
+
 "JCQUT":
+  color: "#0000FF"
+
+"CTAD":
   color: "#0000FF"
 
 "Ph.D. Thesis":
@@ -51,10 +74,6 @@
 "ESWA":
   color: "#0000FF"
 
-"CCF-C":
-  url: https://www.ccf.org.cn/Academic_Evaluation/AI/
-  color: "#FF0000"
-
-"IJCNN":
-  url: https://2025.ijcnn.org/
+"PRL":
+  url: https://www.sciencedirect.com/journal/pattern-recognition-letters
   color: "#0000FF"
