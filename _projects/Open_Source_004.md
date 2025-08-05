@@ -4,7 +4,7 @@ title: SMP-Attack&#58; Boosting the Transferability of Feature Importance-based 
 description: Wen Yang, Guodong Liu, Di Ming* In Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), Oct 2025
 img: /assets/open-socure-image/ICCV2025.jpg
 redirect: https://github.com/AdvML-Group/SMP-Attack
-importance: 002
+importance: 001
 category: Open-Source 2025
 ---
 
