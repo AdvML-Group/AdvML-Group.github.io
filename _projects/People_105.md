@@ -5,7 +5,7 @@ description: Starting in Spring 2023, Co-supervised with Prof. Xin Feng. <br> Re
 img: /assets/students-img/LuoRuiJie.jpg
 redirect: https://unsplash.com
 importance: 105
-category: Master Students
+category: Alumni
 ---
 
 TBD.

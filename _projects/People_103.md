@@ -5,7 +5,7 @@ description: Starting in Fall 2022. <br> Research Topic&#58; Graph Neural Networ
 img: /assets/students-img/YiChen.jpg
 redirect: https://unsplash.com
 importance: 103
-category: Master Students
+category: Alumni
 ---
 
 TBD.
