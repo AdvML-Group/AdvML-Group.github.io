@@ -1,7 +1,7 @@
 ---
 layout: post
 date: wadawdaw 07:59:00-0400
-title: Code for our method <b>&#34;SMP-Attack&#58; Boosting the Transferability of Feature Importance-based Adversarial Attack with Semantics-aware Multi-granularity Patchout (ICCV 2025)&#34;</b> is released!
+title: test!
 inline: false
 related_posts: false
 ---
