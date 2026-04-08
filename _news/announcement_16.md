@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-### <b>SMP-Attack&#58; Boosting the Transferability of Feature Importance-based Adversarial Attack with Semantics-aware Multi-granularity Patchout</b>
+### <b>test</b>
 
 ***
 
