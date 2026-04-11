@@ -25,17 +25,17 @@ layout: default
 
           <div class="container px-0">
             {% if category == "Principal Investigator" %}
-              <!-- Principal Investigator: 一行一个 -->
+              <!-- PI：一行一个，左图右字 -->
               <div class="row row-cols-1 g-3">
                 {%- for project in sorted_projects -%}
                   {% include projects_horizontal_people.html %}
                 {%- endfor %}
               </div>
             {% else %}
-              <!-- 其他类别: 一行三个 -->
+              <!-- 其他：一行三个，上图下文 -->
               <div class="row row-cols-1 row-cols-md-3 g-3">
                 {%- for project in sorted_projects -%}
-                  {% include projects_horizontal_people.html %}
+                  {% include projects_people_vertical.html %}
                 {%- endfor %}
               </div>
             {% endif %}
