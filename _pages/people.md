@@ -1,5 +1,5 @@
 ---
-layout: page_milo
+layout: page_people_grid
 title: People
 permalink: /people/
 description: >
