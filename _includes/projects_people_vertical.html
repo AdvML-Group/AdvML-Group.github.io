@@ -1,0 +1,22 @@
+<div class="card-item col">
+  {%- if project.redirect -%}
+    <a href="{{ project.redirect }}">
+  {%- else -%}
+    <a href="{{ project.url | relative_url }}">
+  {%- endif -%}
+
+    <div class="card hoverable h-100">
+      {%- if project.img -%}
+        <div class="card-img-top-wrapper">
+          {% include figure.html path=project.img alt="project thumbnail" %}
+        </div>
+      {%- endif -%}
+
+      <div class="card-body">
+        <h4 class="card-title">{{ project.title }}</h4>
+        <p class="card-text">{{ project.description }}</p>
+      </div>
+    </div>
+
+  </a>
+</div>
