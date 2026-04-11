@@ -6,21 +6,19 @@
   {%- endif -%}
 
     <div class="card hoverable h-100">
-      <div class="row g-0 h-100">
+      <div class="row g-0 h-100 align-items-center">
         {%- if project.img -%}
-          <div class="card-img col-4">
+          <div class="col-4">
             {% include figure.html path=project.img alt="project thumbnail" %}
           </div>
           <div class="col-8">
         {%- else -%}
           <div class="col-12">
         {%- endif -%}
-
             <div class="card-body">
               <h4 class="card-title">{{ project.title }}</h4>
               <p class="card-text">{{ project.description }}</p>
             </div>
-
           </div>
       </div>
     </div>
