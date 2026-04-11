@@ -1,10 +1,10 @@
 ---
 layout: page
-title:  Yifan Li(李逸凡)
+title:  Yuming Xu(徐虞明)
 description: Starting in Spring 2026. 
 img: /assets/students-img/LiYiFan.jpg
 redirect: https://unsplash.com
-importance: 126
+importance: 127
 category: Undergraduate Students
 ---
 
