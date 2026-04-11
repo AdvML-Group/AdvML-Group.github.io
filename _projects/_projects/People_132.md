@@ -5,6 +5,6 @@ description: Starting in Spring 2026.
 img: /assets/students-img/LiYiFan.jpg
 redirect: https://unsplash.com
 importance: 129
-category: 
-
+category: Master Students
+---
 TBD.
