@@ -5,7 +5,7 @@ description: Shuangshuang Pu, Wen Yang,Min Li,guodong liu,Chris Ding, Di Ming* I
 img: /assets/open-socure-image/IJCNN2025.jpg
 redirect: https://github.com/AdvML-Group/SL1AE-LSGLasso
 importance: 002
-category: Open-Source 2025
+category: Open-Source 2026
 ---
 
 TBD.
