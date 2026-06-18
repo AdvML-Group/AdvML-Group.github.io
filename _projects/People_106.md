@@ -5,7 +5,7 @@ description: Starting in Fall 2023. <br> Research Topic&#58; Sparse and Impercep
 img: /assets/students-img/YangWen.jpg
 redirect: https://unsplash.com
 importance: 107
-category: Master Students
+category: Alumni
 ---
 
 TBD.
