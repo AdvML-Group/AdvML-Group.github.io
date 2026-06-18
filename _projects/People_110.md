@@ -5,7 +5,7 @@ description: Starting in Fall 2023, Co-supervised with Prof. Xin Feng. <br> Rese
 img: /assets/students-img/YangRenQing.jpg
 redirect: https://unsplash.com
 importance: 109
-category: Master Students
+category: Alumni
 ---
 
 TBD.
