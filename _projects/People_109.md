@@ -5,7 +5,7 @@ description: Starting in Fall 2023. <br> Research Topic&#58; Machine Learning an
 img: /assets/students-img/ZhangWenWen.jpg
 redirect: https://unsplash.com
 importance: 101
-category: Undergraduate Students
+category: Alumni
 ---
 
 TBD.
