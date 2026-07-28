@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  GuoXun Ye(叶国训)
+title:  Guoxun Ye(叶国训)
 description: Starting in Autumn 2026. 
 img: /assets/students-img/ChenCong.jpg
 redirect: https://unsplash.com
