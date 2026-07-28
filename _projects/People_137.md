@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Wenbuo Wu(吴文博)
+title:  Wenbo Wu(吴文博)
 description: Starting in Autumn 2026. 
 img: /assets/students-img/WuWenBo.jpg
 redirect: https://unsplash.com
